@@ -1,7 +1,7 @@
 ---
 title: Home
 layout: home
-nav_exclude: true
+nav_exclude: false
 last_modified: 2024-07-22
 ---
 
