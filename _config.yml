@@ -9,6 +9,13 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
+#Footer "Edit this page on Github" text
+gh_edit_link: true
+gh_edit_link_text: "View this page on GitHub"
+gh_edit_repository: "https://github.com/Boxersteavee/wiki"
+gh_edit_branch: "main"
+gh_edit_view_mode: "tree"
+
 aux_links:
   GitHub: https://github.com/Boxersteavee/
   Main Site: https://boxersteavee.dev/
