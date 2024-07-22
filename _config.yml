@@ -9,12 +9,21 @@ plugins:
   - jekyll-sitemap
   - jekyll-redirect-from
 
+sticky_navigation: true
+
+back_to_top: true
+back_to_top_text: "Back to top"
+
 #Footer "Edit this page on Github" text
 gh_edit_link: true
 gh_edit_link_text: "View this page on GitHub"
 gh_edit_repository: "https://github.com/Boxersteavee/wiki"
 gh_edit_branch: "main"
 gh_edit_view_mode: "tree"
+
+#Footer "Last updated" text
+last_edit_timesamp: true
+last_edit_timestamp_format: "Last updated: %B %d, %Y"
 
 aux_links:
   GitHub: https://github.com/Boxersteavee/
