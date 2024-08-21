@@ -18,7 +18,7 @@ setup a google site. which lasted about a year or so whilst I kept going with sc
 things in life. I also played around with [Ghost](https://ghost.org) for a bit, but I didn't really do much with it.
 ## The astro-nomical discovery.
 (excuse the pun)
-Around December 2022, [a friend named alfie](https://itsmealfie0.com) told me about Astro. I gave it a bit of a tinker about, setup a basic site using the default template and gave it a test. I found it cool, but didn't really know what else to do with it. This all changed when that same friend told me about Astro Templates. I had a look, and picked the same one he did, a portfolio site. I customised it, and over time, made it what my site looks like now (as of August 2024). 
+Around December 2022, [a friend named Alfie](https://itsmealfie0.com) told me about Astro. I gave it a bit of a tinker about, setup a basic site using the default template and gave it a test. I found it cool, but didn't really know what else to do with it. This all changed when that same friend told me about Astro Templates. I had a look, and picked the same one he did, a portfolio site. I customised it, and over time, made it what my site looks like now (as of August 2024). 
 ## Where to run?
 Initially, I just ran a Google Site, which Google hosts. When I setup Ghost, I "ran" (more like light jogged) it on an old Raspberry Pi 2B. That Pi was the start of my HomeLab journey, but you can read about that (when I make that article). When I learned about Astro, I initially tried to do the same, but it wasn't exactly great. 
 
